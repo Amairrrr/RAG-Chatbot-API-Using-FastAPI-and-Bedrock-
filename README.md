@@ -1,7 +1,10 @@
 # RAG Chatbot with API Integration using Amazon Bedrock-3
 
 This project demonstrates the creation and deployment of a Retrieve and Generate (RAG) chatbot using Amazon Bedrock, AWS S3, and FastAPI. The project also includes the setup of an API that can be accessed by external applications, such as mobile apps or web apps, to interact with the chatbot seamlessly. This showcases a robust understanding of backend development, cloud architecture, and deploying AI models into production.
-![Architecture](https://github.com/Amairrrr/RAG-Chatbot-API-Using-FastAPI-and-Bedrock-/blob/0a651b19c833c2927792c0a3856e09b0b23d36a8/images/Architecture.png)
+
+![Architecture](https://github.com/Amairrrr/RAG-Chatbot-API-Using-FastAPI-and-Bedrock-/blob/843c7839beaa655f81a74bbfd0bf2f086d6e29ac/images/Architecture.png)
+
+
 ## Overview
 
 This project enables the development of a chatbot powered by Amazon Bedrock. The chatbot can answer queries based on data stored in Amazon S3, and it can be interacted with using a simple API built with FastAPI. The API is designed for easy integration with other applications and services, making it a versatile solution for real-time information retrieval.
